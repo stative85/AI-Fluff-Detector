@@ -1,20 +1,20 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+AI Fluff Detector
 
-# Run and deploy your AI Studio app
+AI Fluff Detector is a lightweight web app that makes your writing sharper and clearer. It highlights fluff, filler, and vague language, giving you instant feedback at the sentence level. With annotated insights and one-click rewrite suggestions, it helps you communicate with precision and confidence.
 
-This contains everything you need to run your app locally.
+✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/drive/1POAnj6Zrq3-m0TQy5Qi9SNJ0Qxl8nH84
+🔎 Fluff Detection – Find filler words, vague phrasing, and weak sentences.
 
-## Run Locally
+🌡️ Sentence Heatmaps – Visualize which parts of your text need the most attention.
 
-**Prerequisites:**  Node.js
+📝 Annotated Feedback – Get direct explanations on why a sentence is flagged.
 
+⚡ One-Click Rewrite – Instantly sharpen sentences without breaking your flow.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🎯 Clarity First – Write tighter, more professional text with every edit.
+
+🚀 Getting Started
+Prerequisites
+
+Node.js

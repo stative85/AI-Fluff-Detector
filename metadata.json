@@ -1,0 +1,5 @@
+{
+  "name": "AI Fluff Detector",
+  "description": "A powerful text analyzer that identifies fluff, provides sentence-level heatmaps, annotated text, and one-click rewrite suggestions to make your writing sharp and clear.",
+  "requestFramePermissions": []
+}
